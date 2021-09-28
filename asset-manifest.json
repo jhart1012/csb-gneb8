@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jhart1012.github.io/csb-gneb8/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jhart1012.github.io/csb-gneb8/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://jhart1012.github.io/csb-gneb8/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://jhart1012.github.io/csb-gneb8/static/js/runtime-main.7c3b5385.js",
+    "runtime-main.js.map": "https://jhart1012.github.io/csb-gneb8/static/js/runtime-main.7c3b5385.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://jhart1012.github.io/csb-gneb8/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://jhart1012.github.io/csb-gneb8/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://jhart1012.github.io/csb-gneb8/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jhart1012.github.io/csb-gneb8/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://jhart1012.github.io/csb-gneb8/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c3b5385.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
